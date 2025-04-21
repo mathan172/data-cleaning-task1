@@ -1,0 +1,11 @@
+Task 1- Data Cleaning Summary
+
+Dataset used:-Mall Customer segmentation Dataset
+
+Steps Taken:
+1.There is NO Missing Vaules in the Data set I checked using Excel Filter.
+2.There is NO Duplicates Vaules in the Data set
+3.Standardized Gender column to have only Male and female.
+4.Formatted columns:Renamed column names to lowercase and used underscores instead of Space.
+5.Checked and Fixed Data types.
+6.Improved quality and consistency.
